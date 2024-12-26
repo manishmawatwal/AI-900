@@ -11,9 +11,7 @@
 
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No. Statements are
 1. Forecasting housing prices based on historical data is an example of anomaly detection
-
 2. Identifying suspicious sign-ins by looking for deviations from usual patterns is an example of anamoly detection.
-
 3. Predicting whether a patient will develop diabetes based on the patient's medical history is an example of anomaly detection.
 
 > * Forecasting housing prices based on historical data is an example of anomaly detection - No
@@ -26,22 +24,22 @@
 
 
 ### Match the types of AI workloads to the appropriate scenarios.
-* Workload Types
-* Anomaly detection
-* Computer vision
-* Conversational AI
-* Knowledge mining
-* Natural Language Processing
-* Machine Learning (Regression)
+Workload Types
+1. Anomaly detection
+2. Computer vision
+3. Conversational AI
+4. Knowledge mining
+5. Natural Language Processing
+6. Machine Learning (Regression)
 
 Scenarios
-* An automated chat to answer questions about refunds and exchanges
-* Determining whether a photo contains a person
-* Determining whether a review is positive or negative.
-* Identify handwritten letters
-* Predict the sentiment of a social media post.
-* Idenitfy a fraudulent credit card payment.
-* Predict next month's toy sales.
+1. An automated chat to answer questions about refunds and exchanges
+2. Determining whether a photo contains a person
+3. Determining whether a review is positive or negative.
+4. Identify handwritten letters
+5. Predict the sentiment of a social media post.
+6. Idenitfy a fraudulent credit card payment.
+7. Predict next month's toy sales.
 
 > Conversational AI - An automated chat to answer questions about refunds and exchange.
 > Computer vision - Determining whether a photo contains a person.
@@ -64,12 +62,12 @@ Scenarios
 * Transparency
 
 Descriptions
-* Ensure that AI system operate as they were originally designed, respond to unanticipated conditions, and resist harmful manipulation.
-* Implementing processes to ensure that decisions made by AI systems can be overriden by humans.
-* Provide consumers with information and controls over the collection, use, and storage of their data.
-* The system must not discriminate based on gender, race.
-* Personal data must be visible only to approve.
-* Automated decision-making processes must be recorded so that approved users can idenitfy why a decision was made.
+1. Ensure that AI system operate as they were originally designed, respond to unanticipated conditions, and resist harmful manipulation.
+2. Implementing processes to ensure that decisions made by AI systems can be overriden by humans.
+3. Provide consumers with information and controls over the collection, use, and storage of their data.
+4. The system must not discriminate based on gender, race.
+5. Personal data must be visible only to approve.
+6. Automated decision-making processes must be recorded so that approved users can idenitfy why a decision was made.
 
 > Reliabilty and safety - Ensure that AI system operate as they were originally designed, respond to unanticipated conditions, and resist harmful manipulation. 
 > Accountability - Implementing processes to ensure that decisions made by AI systems can be overriden by humans.
@@ -94,18 +92,17 @@ Descriptions
 ### ............ is used to generate additional features
 > Feature Engineering
 
-### You run a charity event that involves posting photos of people wearing sunglasses on Twitter. You need to ensure that you only retweet photos that meet the following requirements:
-### Include one or more faces, Contain at least one person wearing sunglasses.
-### What should you use to analyze the images?
+### You run a charity event that involves posting photos of people wearing sunglasses on Twitter. You need to ensure that you only retweet photos that meet the following requirements: Include one or more faces, Contain at least one person wearing sunglasses. What should you use to analyze the images?
 > The Detect operation in the Face service
 
 ### When you design an AI system to assess whether loans should be approved, the factors used to make the decision should be explainable.This is an example of which Microsoft guiding principle for responsible AI?
 > Transparency
 
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No.
-* Providing an explanation of the outcome of a credit loan application is an example of the Microsoft transparency principle for responsible AI.
-* A triage bot that prioritizes insurance claims based on injuries is an example of the Microsoft reliability and safety principle for responsible AI.
-* An AI solution that is offered at different prices for different sales territories is an example of the Microsoft inclusiveness principle for responsible AI.
+1. Providing an explanation of the outcome of a credit loan application is an example of the Microsoft transparency principle for responsible AI.
+2. A triage bot that prioritizes insurance claims based on injuries is an example of the Microsoft reliability and safety principle for responsible AI.
+3. An AI solution that is offered at different prices for different sales territories is an example of the Microsoft inclusiveness principle for responsible AI.
+
 > * Providing an explanation of the outcome of a credit loan application is an example of the Microsoft transparency principle for responsible AI - Yes
 > * A triage bot that prioritizes insurance claims based on injuries is an example of the Microsoft reliability and safety principle for responsible AI - No
 > * An AI solution that is offered at different prices for different sales territories is an example of the Microsoft inclusiveness principle for responsible AI - No
@@ -119,7 +116,6 @@ Descriptions
 ### You are building an AI-based app. You need to ensure that the app uses the principles for responsible AI. Which two principles should you follow?
 > 1. Implement a process of AI model validation as part of the software review process.
 > 2. Establish a risk governance committee that includes members of the legal team, members of the risk management team, and a privacy officer.
-
 
 ### According to Microsoft's ........... priciple of responsible AI, Ai systems should not reflect biases from the data sets that are used to train the systems.
 > Fairness
@@ -137,14 +133,13 @@ Scenarios
 2. Splitting a date into month, day, and year fields.
 3. Picking temperature and pressure to train a weather model.
 
-> Model evaluation - Examining the values of a confusion matrix.
-> Feature engineering - Splitting a date into month, day, and year fields.
-> Feature selection - Picking temperature and pressure to train a weather model.
+> * Model evaluation - Examining the values of a confusion matrix.
+> * Feature engineering - Splitting a date into month, day, and year fields.
+> * Feature selection - Picking temperature and pressure to train a weather model.
 
 
 ### Data values that influence the prediction of a model are called .......
 > Features
-
 
 ### Which type of machine learning should you use to predict the number of gift cards that will be sold next month?
 ### You need to predict the sea level in meters for the next 10 years.Which type of machine learning should you use?
@@ -166,13 +161,13 @@ Scenarios
 6. Azure ML designer enables you to save your progress as a pipeline draft.
 7. Azure ML designer enables you to include custom JavaScript functions.
 
-> Automated ML is the process of automating the time-consuming, iterative tasks of ML model deployment - Yes
-> Automated ML can automatically infer the training data from the use case provided - No
-> Automated ML works by running multiple training iterations that are scored and ranked by the metrics you specify - Yes
-> Automated ML enables you to specify a dataset and will automatically understand which label to predict - No
-> Azure ML designer provides a drag-and-drop visual canvas to build, test, and deploy ML models - Yes
-> Azure ML designer enables you to save your progress as a pipeline draft - Yes
-> Azure ML designer enables you to include custom JavaScript functions - No
+> * Automated ML is the process of automating the time-consuming, iterative tasks of ML model deployment - Yes
+> * Automated ML can automatically infer the training data from the use case provided - No
+> * Automated ML works by running multiple training iterations that are scored and ranked by the metrics you specify - Yes
+> * Automated ML enables you to specify a dataset and will automatically understand which label to predict - No
+> * Azure ML designer provides a drag-and-drop visual canvas to build, test, and deploy ML models - Yes
+> * Azure ML designer enables you to save your progress as a pipeline draft - Yes
+> * Azure ML designer enables you to include custom JavaScript functions - No
 
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 1. Labeling is the process of tagging trainng data with known values.
@@ -182,7 +177,6 @@ Scenarios
 > * Labeling is the process of tagging trainng data with known values - Yes
 > * You should evaluate a model by using the same data used to train the model - No
 > * Accuracy is always the primary metric used to measure a model's performance - No
-
 
 ### Which service should you use to extract text, key/value pairs, and table data automatically from scanned documents?
 ### The ability to extract subtotals and totals from a receipt is a capability of the ...........
@@ -224,9 +218,9 @@ Which service should you use to process the documents?
 > Natural Language Processing
 
 ### You need to provide content for a business chatbot that will help answer simple user queries. What are three ways to create question and answer text by using QnA Maker?
-> Generate the questions and answers from an existing webpage.
-> Manually enter the questions and answers.
-> Import chit-chat content from a predefined data source.
+> * Generate the questions and answers from an existing webpage.
+> * Manually enter the questions and answers.
+> * Import chit-chat content from a predefined data source.
 
 
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No.
@@ -234,9 +228,9 @@ Which service should you use to process the documents?
 2. Identifying brand logos is an example of natural language processing.
 3. Monitoring public news sites for negative mentions of a product is an example of natural language processing.
 
-> Monitoring online service reviews for profanities is an example of natural language processing - Yes
-> Identifying brand logos is an example of natural language processing - No
-> Monitoring public news sites for negative mentions of a product is an example of natural language processing - Yes
+> * Monitoring online service reviews for profanities is an example of natural language processing - Yes
+> * Identifying brand logos is an example of natural language processing - No
+> * Monitoring public news sites for negative mentions of a product is an example of natural language processing - Yes
 
 
 ### You need to create a customer supposrt solution to help customers access information. The solution must support email, phone, and live chat channels. Which type of AI solution should you use?
