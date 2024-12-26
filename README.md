@@ -1,4 +1,6 @@
-# AI-900
+# AI-900 Questions
+
+Disclaimer: All the questions could be found by Googling online, this is just an aggregation.
 
 ### A company employs a team of customer service agents to provide telephone and email support to customers. The company develops a webchat bot to provide automated answers to common customer queries. Which business benefit should the company expect as a result of creating the webchat bot solution?
 > A reduced workload for the customer service agents
