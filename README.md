@@ -1,9 +1,9 @@
 # AI-900
 
-## A company employs a team of customer service agents to provide telephone and email support to customers. The company develops a webchat bot to provide automated answers to common customer queries. Which business benefit should the company expect as a result of creating the webchat bot solution?
+### A company employs a team of customer service agents to provide telephone and email support to customers. The company develops a webchat bot to provide automated answers to common customer queries. Which business benefit should the company expect as a result of creating the webchat bot solution?
 > A reduced workload for the customer service agents
 
-## For a machine learning progress, how should you split data for training and evaluation?
+### For a machine learning progress, how should you split data for training and evaluation?
 > Randomly split the data into rows for training and rows for evaluation.
 
 You build a machine learning model by using the automated machine learning user interface (UI). You need to ensure that the model meets the Microsoft transparency principle for responsible AI. What should you do?
