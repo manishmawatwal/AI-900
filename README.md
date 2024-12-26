@@ -11,7 +11,9 @@ You build a machine learning model by using the automated machine learning user 
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No. Statements are
 1. Forecasting housing prices based on historical data is an example of anomaly detection
+
 2. Identifying suspicious sign-ins by looking for deviations from usual patterns is an example of anamoly detection.
+
 3. Predicting whether a patient will develop diabetes based on the patient's medical history is an example of anomaly detection.
 
 > Forecasting housing prices based on historical data is an example of anomaly detection - No
@@ -24,7 +26,6 @@ When developing an AI system for self-driving cars, the Microsoft ....... princi
 
 
 Match the types of AI workloads to the appropriate scenarios.
-
 Workload Types
 
 Anomaly detection
@@ -357,11 +358,9 @@ Natural Language Processing
 
 You need to provide content for a business chatbot that will help answer simple user queries. What are three ways to create question and answer text by using QnA Maker?
 
-Generate the questions and answers from an existing webpage.
-
-Manually enter the questions and answers.
-
-Import chit-chat content from a predefined data source.
+> Generate the questions and answers from an existing webpage.
+> Manually enter the questions and answers.
+> Import chit-chat content from a predefined data source.
 
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
@@ -372,13 +371,10 @@ Identifying brand logos is an example of natural language processing.
 
 Monitoring public news sites for negative mentions of a product is an example of natural language processing.
 
-Monitoring online service reviews for profanities is an example of natural language processing - Yes
-
-Identifying brand logos is an example of natural language processing - No
-
-Monitoring public news sites for negative mentions of a product is an example of natural language processing - Yes
+> Monitoring online service reviews for profanities is an example of natural language processing - Yes
+> Identifying brand logos is an example of natural language processing - No
+> Monitoring public news sites for negative mentions of a product is an example of natural language processing - Yes
 
 
 You need to create a customer supposrt solution to help customers access information. The solution must support email, phone, and live chat channels. Which type of AI solution should you use?
-
-Chatbot
+> Chatbot
