@@ -6,10 +6,10 @@
 ### For a machine learning progress, how should you split data for training and evaluation?
 > Randomly split the data into rows for training and rows for evaluation.
 
-You build a machine learning model by using the automated machine learning user interface (UI). You need to ensure that the model meets the Microsoft transparency principle for responsible AI. What should you do?
+### You build a machine learning model by using the automated machine learning user interface (UI). You need to ensure that the model meets the Microsoft transparency principle for responsible AI. What should you do?
 > Enable explain best model
 
-For each of the following statements, select Yes if the statement is true. Otherwise, select No. Statements are
+### For each of the following statements, select Yes if the statement is true. Otherwise, select No. Statements are
 1. Forecasting housing prices based on historical data is an example of anomaly detection
 
 2. Identifying suspicious sign-ins by looking for deviations from usual patterns is an example of anamoly detection.
@@ -20,32 +20,23 @@ For each of the following statements, select Yes if the statement is true. Other
 > Identifying suspicious sign-ins by looking for deviations from usual patterns is an example of anamoly detection - Yes
 > Predicting whether a patient will develop diabetes based on the patient's medical history is an example of anomaly detection - No
 
-## The handling of unusual or missing values provided to an AI system is a consideration for the Microsoft ......... pricinple for responsible AI.
-## When developing an AI system for self-driving cars, the Microsoft ....... principle for responsible AI should be applied to ensure consitent operation of the system during unexpected circumstances.
+### The handling of unusual or missing values provided to an AI system is a consideration for the Microsoft ......... pricinple for responsible AI.
+### When developing an AI system for self-driving cars, the Microsoft ....... principle for responsible AI should be applied to ensure consitent operation of the system during unexpected circumstances.
 > Reliability and safety
 
 
-Match the types of AI workloads to the appropriate scenarios.
-Workload Types
-
-Anomaly detection
-
-Computer vision
-
-Conversational AI
-
-Knowledge mining
-
-Natural Language Processing
-
-Machine Learning (Regression)
+### Match the types of AI workloads to the appropriate scenarios.
+* Workload Types
+* Anomaly detection
+* Computer vision
+* Conversational AI
+* Knowledge mining
+* Natural Language Processing
+* Machine Learning (Regression)
 
 Scenarios
-
-An automated chat to answer questions about refunds and exchanges
-
-Determining whether a photo contains a person
-
+* An automated chat to answer questions about refunds and exchanges
+* Determining whether a photo contains a person
 Determining whether a review is positive or negative.
 
 Identify handwritten letters
