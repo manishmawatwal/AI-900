@@ -22,7 +22,6 @@
 ### When developing an AI system for self-driving cars, the Microsoft ....... principle for responsible AI should be applied to ensure consitent operation of the system during unexpected circumstances.
 > Reliability and safety
 
-
 ### Match the types of AI workloads to the appropriate scenarios.
 Workload Types
 1. Anomaly detection
@@ -69,13 +68,12 @@ Descriptions
 5. Personal data must be visible only to approve.
 6. Automated decision-making processes must be recorded so that approved users can idenitfy why a decision was made.
 
-> Reliabilty and safety - Ensure that AI system operate as they were originally designed, respond to unanticipated conditions, and resist harmful manipulation. 
-> Accountability - Implementing processes to ensure that decisions made by AI systems can be overriden by humans.
-> Privacy and security - Provide consumers with information and controls over the collection, use, and storage of their data.
-> Fairness - The system must not discriminate based on gender, race.
-> Privacy and security - Personal data must be visible only to approve.
-> Transparency - Automated decision-making processes must be recorded so that approved users can idenitfy why a decision was made.
-
+> * Reliabilty and safety - Ensure that AI system operate as they were originally designed, respond to unanticipated conditions, and resist harmful manipulation. 
+> * Accountability - Implementing processes to ensure that decisions made by AI systems can be overriden by humans.
+> * Privacy and security - Provide consumers with information and controls over the collection, use, and storage of their data.
+> * Fairness - The system must not discriminate based on gender, race.
+> * Privacy and security - Personal data must be visible only to approve.
+> * Transparency - Automated decision-making processes must be recorded so that approved users can idenitfy why a decision was made.
 
 ### You are building an AI system.Which task should you include to ensure that the service meets the Microsoft transparency principle for responsible AI?
 > Provide documentation to help developers debug code.
@@ -107,7 +105,6 @@ Descriptions
 > * A triage bot that prioritizes insurance claims based on injuries is an example of the Microsoft reliability and safety principle for responsible AI - No
 > * An AI solution that is offered at different prices for different sales territories is an example of the Microsoft inclusiveness principle for responsible AI - No
 
-
 ### You plan to deploy an Azure Machine Learning model as a service that will be used by client applications. Which three processes should you perform in sequence before you deploy the model?
 > 1. Data Preparation
 > 2. Model Training
@@ -136,7 +133,6 @@ Scenarios
 > * Model evaluation - Examining the values of a confusion matrix.
 > * Feature engineering - Splitting a date into month, day, and year fields.
 > * Feature selection - Picking temperature and pressure to train a weather model.
-
 
 ### Data values that influence the prediction of a model are called .......
 > Features
@@ -210,7 +206,6 @@ Scenarios
 Which service should you use to process the documents?
 > Q&A Maker
 
-
 ### You need to track multiple versions of a model that was trained by using Azure Machine Learning. What should you do?
 > Register the model
 
@@ -222,7 +217,6 @@ Which service should you use to process the documents?
 > * Manually enter the questions and answers.
 > * Import chit-chat content from a predefined data source.
 
-
 ### For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 1. Monitoring online service reviews for profanities is an example of natural language processing.
 2. Identifying brand logos is an example of natural language processing.
@@ -231,7 +225,6 @@ Which service should you use to process the documents?
 > * Monitoring online service reviews for profanities is an example of natural language processing - Yes
 > * Identifying brand logos is an example of natural language processing - No
 > * Monitoring public news sites for negative mentions of a product is an example of natural language processing - Yes
-
 
 ### You need to create a customer supposrt solution to help customers access information. The solution must support email, phone, and live chat channels. Which type of AI solution should you use?
 > Chatbot
