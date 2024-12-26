@@ -62,86 +62,54 @@ Anomaly detection - Identify a fraudulent credit card payment.
 Machine Learning Regression - Predict next month's toy sales.
 
 
-You are designing an AI system that empowers everyone, including people who have hearing, visual, and other impairments. This is an example of which Microsoft guiding principle for responsible AI?
+### You are designing an AI system that empowers everyone, including people who have hearing, visual, and other impairments. This is an example of which Microsoft guiding principle for responsible AI?
+> Inclusiveness
 
-Inclusiveness
 
-
-Match the Microsoft guiding principles for responsible AI to the appropriate descriptions.
-
-Principles
-
-Accountability
-
-Fairness
-
-Inclusiveness
-
-Privacy and security
-
-Reliability and safety
-
-Transparency
+### Match the Microsoft guiding principles for responsible AI to the appropriate descriptions.
+* Principles
+* Accountability
+* Fairness
+* Inclusiveness
+* Privacy and security
+* Reliability and safety
+* Transparency
 
 Descriptions
+* Ensure that AI system operate as they were originally designed, respond to unanticipated conditions, and resist harmful manipulation.
+* Implementing processes to ensure that decisions made by AI systems can be overriden by humans.
+* Provide consumers with information and controls over the collection, use, and storage of their data.
+* The system must not discriminate based on gender, race.
+* Personal data must be visible only to approve.
+* Automated decision-making processes must be recorded so that approved users can idenitfy why a decision was made.
 
-Ensure that AI system operate as they were originally designed, respond to unanticipated conditions, and resist harmful manipulation.
-
-Implementing processes to ensure that decisions made by AI systems can be overriden by humans.
-
-Provide consumers with information and controls over the collection, use, and storage of their data.
-
-The system must not discriminate based on gender, race.
-
-Personal data must be visible only to approve.
-
-Automated decision-making processes must be recorded so that approved users can idenitfy why a decision was made.
-
-Reliabilty and safety - Ensure that AI system operate as they were originally designed, respond to unanticipated conditions, and resist harmful manipulation. 
-
-Accountability - Implementing processes to ensure that decisions made by AI systems can be overriden by humans. 
-
-Privacy and security - Provide consumers with information and controls over the collection, use, and storage of their data.
-
-Fairness - The system must not discriminate based on gender, race.
-
-Privacy and security - Personal data must be visible only to approve.
-
-Transparency - Automated decision-making processes must be recorded so that approved users can idenitfy why a decision was made.
+> Reliabilty and safety - Ensure that AI system operate as they were originally designed, respond to unanticipated conditions, and resist harmful manipulation. 
+> Accountability - Implementing processes to ensure that decisions made by AI systems can be overriden by humans.
+> Privacy and security - Provide consumers with information and controls over the collection, use, and storage of their data.
+> Fairness - The system must not discriminate based on gender, race.
+> Privacy and security - Personal data must be visible only to approve.
+> Transparency - Automated decision-making processes must be recorded so that approved users can idenitfy why a decision was made.
 
 
-You are building an AI system.Which task should you include to ensure that the service meets the Microsoft transparency principle for responsible AI?
+### You are building an AI system.Which task should you include to ensure that the service meets the Microsoft transparency principle for responsible AI?
+> Provide documentation to help developers debug code.
 
-Provide documentation to help developers debug code.
+### ........... is used to extract dates, quantities, and locations from text.
+> Named Entity Recognition (NER)
 
+### What are Microsoft guiding principles for responsible AI?
+> Inclusiveness, Fairness, Reliability and safety, Accountability, Privacy and security, Transparency
 
-........... is used to extract dates, quantities, and locations from text.
+### Returning a bounding box that indicates the location of a vehicle in an image is an example of ........
+> Object detection
 
-Named Entity Recognition (NER)
+### ............ is used to generate additional features
+> Feature Engineering
 
-
-What are Microsoft guiding principles for responsible AI?
-
-Inclusiveness, Fairness, Reliability and safety, Accountability, Privacy and security, Transparency
-
-
-Returning a bounding box that indicates the location of a vehicle in an image is an example of ........
-
-Object detection
-
-
-............ is used to generate additional features
-
-Feature Engineering
-
-
-You run a charity event that involves posting photos of people wearing sunglasses on Twitter. You need to ensure that you only retweet photos that meet the following requirements:
-
-Include one or more faces.
-
-Contain at least one person wearing sunglasses.What should you use to analyze the images?
-
-The Detect operation in the Face service
+### You run a charity event that involves posting photos of people wearing sunglasses on Twitter. You need to ensure that you only retweet photos that meet the following requirements:
+### Include one or more faces, Contain at least one person wearing sunglasses.
+### What should you use to analyze the images?
+> The Detect operation in the Face service
 
 
 When you design an AI system to assess whether loans should be approved, the factors used to make the decision should be explainable.This is an example of which Microsoft guiding principle for responsible AI?
