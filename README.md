@@ -3,51 +3,24 @@
 A company employs a team of customer service agents to provide telephone and email support to customers. The company develops a webchat bot to provide automated answers to common customer queries. Which business benefit should the company expect as a result of creating the webchat bot solution?
 > A reduced workload for the customer service agents
 
-
 For a machine learning progress, how should you split data for training and evaluation?
-
-Randomly split the data into rows for training and rows for evaluation.
-
-
-You are developing a model to predict events by using classification. You have a confusion matrix for the model scored on test data as shown in the following exhibit.
-
-Find the correctly predicted positives and false negatives
-
-
-
-Maximize image
-Edit image
-Delete image
-
-
-11, 1033
-
+> Randomly split the data into rows for training and rows for evaluation.
 
 You build a machine learning model by using the automated machine learning user interface (UI). You need to ensure that the model meets the Microsoft transparency principle for responsible AI. What should you do?
-
-Enable explain best model
-
+> Enable explain best model
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No. Statements are
+1. Forecasting housing prices based on historical data is an example of anomaly detection
+2. Identifying suspicious sign-ins by looking for deviations from usual patterns is an example of anamoly detection.
+3. Predicting whether a patient will develop diabetes based on the patient's medical history is an example of anomaly detection.
 
-Forecasting housing prices based on historical data is an example of anomaly detection
-
-Identifying suspicious sign-ins by looking for deviations from usual patterns is an example of anamoly detection.
-
-Predicting whether a patient will develop diabetes based on the patient's medical history is an example of anomaly detection.
-
-Forecasting housing prices based on historical data is an example of anomaly detection - No
-
-Identifying suspicious sign-ins by looking for deviations from usual patterns is an example of anamoly detection - Yes
-
-Predicting whether a patient will develop diabetes based on the patient's medical history is an example of anomaly detection - No
-
+> Forecasting housing prices based on historical data is an example of anomaly detection - No
+> Identifying suspicious sign-ins by looking for deviations from usual patterns is an example of anamoly detection - Yes
+> Predicting whether a patient will develop diabetes based on the patient's medical history is an example of anomaly detection - No
 
 The handling of unusual or missing values provided to an AI system is a consideration for the Microsoft ......... pricinple for responsible AI.
-
 When developing an AI system for self-driving cars, the Microsoft ....... principle for responsible AI should be applied to ensure consitent operation of the system during unexpected circumstances.
-
-Reliability and safety
+> Reliability and safety
 
 
 Match the types of AI workloads to the appropriate scenarios.
