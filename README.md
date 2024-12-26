@@ -1,7 +1,7 @@
 # AI-900
-A company employs a team of customer service agents to provide telephone and email support to customers. The company develops a webchat bot to provide automated answers to common customer queries. Which business benefit should the company expect as a result of creating the webchat bot solution?
 
-A reduced workload for the customer service agents
+A company employs a team of customer service agents to provide telephone and email support to customers. The company develops a webchat bot to provide automated answers to common customer queries. Which business benefit should the company expect as a result of creating the webchat bot solution?
+> A reduced workload for the customer service agents
 
 
 For a machine learning progress, how should you split data for training and evaluation?
