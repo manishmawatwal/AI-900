@@ -16,9 +16,9 @@
 
 3. Predicting whether a patient will develop diabetes based on the patient's medical history is an example of anomaly detection.
 
-> Forecasting housing prices based on historical data is an example of anomaly detection - No
-> Identifying suspicious sign-ins by looking for deviations from usual patterns is an example of anamoly detection - Yes
-> Predicting whether a patient will develop diabetes based on the patient's medical history is an example of anomaly detection - No
+> * Forecasting housing prices based on historical data is an example of anomaly detection - No
+> * Identifying suspicious sign-ins by looking for deviations from usual patterns is an example of anamoly detection - Yes
+> * Predicting whether a patient will develop diabetes based on the patient's medical history is an example of anomaly detection - No
 
 ### The handling of unusual or missing values provided to an AI system is a consideration for the Microsoft ......... pricinple for responsible AI.
 ### When developing an AI system for self-driving cars, the Microsoft ....... principle for responsible AI should be applied to ensure consitent operation of the system during unexpected circumstances.
