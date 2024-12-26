@@ -41,13 +41,13 @@ Scenarios
 6. Idenitfy a fraudulent credit card payment.
 7. Predict next month's toy sales.
 
-> Conversational AI - An automated chat to answer questions about refunds and exchange.
-> Computer vision - Determining whether a photo contains a person.
-> Natural Language Processing - Determining whether a review is positive or negative.
-> Computer vision - Identify handwritten letters.
-> Natural language processing - Predict the sentiment of a social media post.
-> Anomaly detection - Identify a fraudulent credit card payment.
-> Machine Learning Regression - Predict next month's toy sales.
+> * Conversational AI - An automated chat to answer questions about refunds and exchange.
+> * Computer vision - Determining whether a photo contains a person.
+> * Natural Language Processing - Determining whether a review is positive or negative.
+> * Computer vision - Identify handwritten letters.
+> * Natural language processing - Predict the sentiment of a social media post.
+> * Anomaly detection - Identify a fraudulent credit card payment.
+> * Machine Learning Regression - Predict next month's toy sales.
 
 ### You are designing an AI system that empowers everyone, including people who have hearing, visual, and other impairments. This is an example of which Microsoft guiding principle for responsible AI?
 > Inclusiveness
